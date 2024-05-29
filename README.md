@@ -1,7 +1,7 @@
 # Fetch-Rewards-Coding-Exercise
  
 ### First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
-![alt text](image.png)
+![alt text](image/image.png)
 
 ### Second: Write queries that directly answer predetermined questions from a business stakeholder
 
